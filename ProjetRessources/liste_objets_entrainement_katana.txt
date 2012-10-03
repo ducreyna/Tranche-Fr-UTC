@@ -1,0 +1,5 @@
+ananas	./ProjetRessources/3D Entities/Objects/Fruits/Entrainement/ananas_anim.nmo	200	/* Ananas */
+kiwi	./ProjetRessources/3D Entities/Objects/Fruits/Entrainement/kiwi_anim.nmo	1000	/* Kiwi */
+poire	./ProjetRessources/3D Entities/Objects/Fruits/Entrainement/poire_anim.nmo	500	/* Poire */
+raisin	./ProjetRessources/3D Entities/Objects/Fruits/Entrainement/raisin_anim.nmo	200	/* Raisin */ 
+grenade	./ProjetRessources/3D Entities/Objects/grenade_anim.nmo	-1000	/* Grenade */ 
