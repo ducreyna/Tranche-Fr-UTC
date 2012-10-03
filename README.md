@@ -1,6 +1,6 @@
 A)  Objectif
 
-L’objectif ici est de découvrir et d’utiliser les technologies qui ont attrait à la réalité virtuelle à travers la création d’un jeu accessible au plus grand nombre. L’intérêt est d’interagir avec plusieurs interfaces de réalité virtuelle telles que la wiimote, le gant à fibre optique et la stéréoscopie 3D avec tracking afin de rendre le projet le plus immersif possible.
+L’objectif ici est de découvrir et d’utiliser les technologies qui ont attrait à la réalité virtuelle à travers la création d’un jeu accessible au plus grand nombre. L’intérêt est d’interagir avec plusieurs interfaces de réalité virtuelle telles que la wiimote, le gant à fibre optique et la stéréoscopie 3D avec tracking afin de rendre le projet le plus immersif possible. Toute cette application sera créée à l'aide du logiciel Virtools.
 
 Ce projet est tiré de l’application pour Smartphone Fruit Ninja (http://www.fruitninja.com/), qui consiste à couper des fruits au vol en réalisant le maximum de combos durant un temps imparti. Il faut également noter que le joueur sera soumis à des pièges lors du lancement des fruits, ces pièges consisteront à des bombes. Si le joueur a la malchance d’en couper un le jeu prendra fin immédiatement.
 
